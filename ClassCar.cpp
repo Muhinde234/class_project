@@ -20,7 +20,7 @@ class Car
 			cout<<"the year :"<<year;
 		}
 };
-int main()
+int main() //main part of the program
 {
 	Car car1;
 	car1.brand="toyota";
